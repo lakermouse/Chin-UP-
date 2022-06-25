@@ -1,0 +1,1044 @@
+fileFormatVersion: 2
+guid: 06b67b4bdf43e4cbeb0e20892a2a0fef
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bar Holders
+    100002: BarHoldersPV
+    100004: BlankingBoard
+    100006: Discus Throw
+    100008: Grass
+    100010: High Jump
+    100012: High Jump.001
+    100014: Inner Kerb
+    100016: LeftUprightPV
+    100018: Long Jump
+    100020: Markings
+    100022: Mat
+    100024: MatPV
+    100026: Net
+    100028: //RootNode
+    100030: PoleVault
+    100032: RightUprightPV
+    100034: Sand Pit
+    100036: ShotPut
+    100038: ShotPutThrowingCircle
+    100040: Track
+    100042: Uprights
+    100044: Bar
+    100046: High Jump Bar
+    100048: High Jump Bar Holders
+    100050: High Jump Mat
+    100052: High Jump Uprights
+    100054: Pole Vault
+    100056: Pole Vault Bar
+    100058: Pole Vault Bar Holders
+    100060: Pole Vault Blanking Board
+    100062: Pole Vault Mat
+    100064: Pole Vault Uprights
+    100066: Discus Throw Circle
+    100068: Discus Throw Net
+    100070: Long Jump Sand Pit
+    100072: Long Jump Take-Off Boards
+    100074: Shot Put
+    100076: Shot Put Stop Board
+    100078: Shot Put Throwing Circle
+    100080: Grass.001
+    100082: Shot Put Markings
+    100084: High Jump Markings
+    100086: Long Jump Markings
+    100088: Discus Throw Markings
+    100090: Javelin Throw
+    100092: Javelin Throw Markings
+    100094: Pole Vault Markings
+    100096: Track Markings
+    100098: Empty
+    100100: Empty.001
+    100102: Javelin Throw Kerb
+    100104: Measurements
+    100106: Steeplechase
+    100108: Steeplechase Kerb
+    100110: Steeplechase Water Bassin
+    100112: Water Jump Steeple (Men)
+    100114: Water Jump Steeple (Women)
+    100116: Discus Throw Border
+    100118: Discus/Hammer Throw
+    100120: Discus/Hammer Throw Circle
+    100122: Discus/Hammer Throw Markings
+    100124: Hammer Throw Border
+    100126: Long/Tripple Jump
+    100128: Long/Tripple Jump Markings
+    100130: Long/Tripple Jump Sand Pit
+    100132: Throwing Cage
+    100134: Throwing Cage Door 1
+    100136: Throwing Cage Door 2
+    100138: Tripple Jump Take-Off Boards (Men)
+    100140: Tripple Jump Take-Off Boards (Women)
+    100142: 'Discus Throw Border '
+    100144: Discus/Hammer Throw Cage
+    100146: Advertising Board
+    100148: Stands
+    100150: Roof
+    100152: Fences
+    100154: Hammer Throw
+    100156: Hammer Throw Cage
+    100158: Hammer Throw Circle
+    100160: Hammer Throw Markings
+    100162: Handrails
+    100164: Stairs
+    100166: Stairs.001
+    100168: Stairs.002
+    100170: Stairs HQ
+    100172: Stairs LQ
+    100174: Discus Throw Poles
+    100176: Floodlight 1
+    100178: Floodlight 2
+    100180: Floodlight 3
+    100182: Floodlight 4
+    100184: Floodlights
+    100186: Monitor 1
+    100188: Monitor 1 Display
+    100190: Monitor 2
+    100192: Monitor 2 Display
+    100194: Monitors
+    100196: Hammer Throw Cage Poles
+    100198: Rim
+    100200: High Jump Mat.001
+    100202: Audience Seats
+    100204: Advertising Board.002
+    100206: Audience Seats.002
+    100208: Discus Throw Border .002
+    100210: Discus Throw Circle.002
+    100212: Discus Throw Markings.002
+    100214: Discus Throw Net.002
+    100216: Discus Throw Poles.002
+    100218: Discus Throw.002
+    100220: Fences.002
+    100222: Floodlight 1.002
+    100224: Floodlight 2.002
+    100226: Floodlight 3.002
+    100228: Floodlight 4.002
+    100230: Floodlights.002
+    100232: Grass.002
+    100234: Hammer Throw Border.002
+    100236: Hammer Throw Cage Poles.002
+    100238: Hammer Throw Cage.002
+    100240: Hammer Throw Circle.002
+    100242: Hammer Throw Markings.002
+    100244: Hammer Throw.002
+    100246: Handrails.002
+    100248: High Jump Bar Holders.002
+    100250: High Jump Bar.002
+    100252: High Jump Markings.002
+    100254: High Jump Mat.002
+    100256: High Jump Uprights.002
+    100258: High Jump.002
+    100260: Inner Kerb.002
+    100262: Javelin Throw Kerb.002
+    100264: Javelin Throw Markings.002
+    100266: Javelin Throw.002
+    100268: Long Jump Take-Off Boards.002
+    100270: Long/Tripple Jump Markings.002
+    100272: Long/Tripple Jump Sand Pit.002
+    100274: Long/Tripple Jump.002
+    100276: Monitor 1.002
+    100278: Monitor 2.002
+    100280: Monitors.002
+    100282: Pole Vault Bar Holders.002
+    100284: Pole Vault Bar.002
+    100286: Pole Vault Blanking Board.002
+    100288: Pole Vault Markings.002
+    100290: Pole Vault Mat.002
+    100292: Pole Vault Uprights.002
+    100294: Pole Vault.002
+    100296: Roof.002
+    100298: Shot Put Markings.002
+    100300: Shot Put Stop Board.002
+    100302: Shot Put Throwing Circle.002
+    100304: Shot Put.002
+    100306: Stairs HQ.002
+    100308: Stands.002
+    100310: Steeplechase Kerb.002
+    100312: Steeplechase Water Bassin.002
+    100314: Steeplechase.002
+    100316: Throwing Cage Door 1.002
+    100318: Throwing Cage Door 2.002
+    100320: Track Markings.002
+    100322: Track.002
+    100324: Tripple Jump Take-Off Boards (Men).002
+    100326: Tripple Jump Take-Off Boards (Women).002
+    100328: Water Jump Steeple (Men).002
+    100330: Water Jump Steeple (Women).002
+    100332: Finish Signal Cones
+    100334: Javelin Throw Signal Cones
+    100336: Long Jump Distance Sign
+    100338: Steeplechase Signal Cones
+    100340: Floodlight 1 LQ
+    100342: Floodlight 1 HQ
+    100344: Floodlight 2 HQ
+    100346: Floodlight 3 HQ
+    100348: Floodlight 4 HQ
+    400000: Bar Holders
+    400002: BarHoldersPV
+    400004: BlankingBoard
+    400006: Discus Throw
+    400008: Grass
+    400010: High Jump
+    400012: High Jump.001
+    400014: Inner Kerb
+    400016: LeftUprightPV
+    400018: Long Jump
+    400020: Markings
+    400022: Mat
+    400024: MatPV
+    400026: Net
+    400028: //RootNode
+    400030: PoleVault
+    400032: RightUprightPV
+    400034: Sand Pit
+    400036: ShotPut
+    400038: ShotPutThrowingCircle
+    400040: Track
+    400042: Uprights
+    400044: Bar
+    400046: High Jump Bar
+    400048: High Jump Bar Holders
+    400050: High Jump Mat
+    400052: High Jump Uprights
+    400054: Pole Vault
+    400056: Pole Vault Bar
+    400058: Pole Vault Bar Holders
+    400060: Pole Vault Blanking Board
+    400062: Pole Vault Mat
+    400064: Pole Vault Uprights
+    400066: Discus Throw Circle
+    400068: Discus Throw Net
+    400070: Long Jump Sand Pit
+    400072: Long Jump Take-Off Boards
+    400074: Shot Put
+    400076: Shot Put Stop Board
+    400078: Shot Put Throwing Circle
+    400080: Grass.001
+    400082: Shot Put Markings
+    400084: High Jump Markings
+    400086: Long Jump Markings
+    400088: Discus Throw Markings
+    400090: Javelin Throw
+    400092: Javelin Throw Markings
+    400094: Pole Vault Markings
+    400096: Track Markings
+    400098: Empty
+    400100: Empty.001
+    400102: Javelin Throw Kerb
+    400104: Measurements
+    400106: Steeplechase
+    400108: Steeplechase Kerb
+    400110: Steeplechase Water Bassin
+    400112: Water Jump Steeple (Men)
+    400114: Water Jump Steeple (Women)
+    400116: Discus Throw Border
+    400118: Discus/Hammer Throw
+    400120: Discus/Hammer Throw Circle
+    400122: Discus/Hammer Throw Markings
+    400124: Hammer Throw Border
+    400126: Long/Tripple Jump
+    400128: Long/Tripple Jump Markings
+    400130: Long/Tripple Jump Sand Pit
+    400132: Throwing Cage
+    400134: Throwing Cage Door 1
+    400136: Throwing Cage Door 2
+    400138: Tripple Jump Take-Off Boards (Men)
+    400140: Tripple Jump Take-Off Boards (Women)
+    400142: 'Discus Throw Border '
+    400144: Discus/Hammer Throw Cage
+    400146: Advertising Board
+    400148: Stands
+    400150: Roof
+    400152: Fences
+    400154: Hammer Throw
+    400156: Hammer Throw Cage
+    400158: Hammer Throw Circle
+    400160: Hammer Throw Markings
+    400162: Handrails
+    400164: Stairs
+    400166: Stairs.001
+    400168: Stairs.002
+    400170: Stairs HQ
+    400172: Stairs LQ
+    400174: Discus Throw Poles
+    400176: Floodlight 1
+    400178: Floodlight 2
+    400180: Floodlight 3
+    400182: Floodlight 4
+    400184: Floodlights
+    400186: Monitor 1
+    400188: Monitor 1 Display
+    400190: Monitor 2
+    400192: Monitor 2 Display
+    400194: Monitors
+    400196: Hammer Throw Cage Poles
+    400198: Rim
+    400200: High Jump Mat.001
+    400202: Audience Seats
+    400204: Advertising Board.002
+    400206: Audience Seats.002
+    400208: Discus Throw Border .002
+    400210: Discus Throw Circle.002
+    400212: Discus Throw Markings.002
+    400214: Discus Throw Net.002
+    400216: Discus Throw Poles.002
+    400218: Discus Throw.002
+    400220: Fences.002
+    400222: Floodlight 1.002
+    400224: Floodlight 2.002
+    400226: Floodlight 3.002
+    400228: Floodlight 4.002
+    400230: Floodlights.002
+    400232: Grass.002
+    400234: Hammer Throw Border.002
+    400236: Hammer Throw Cage Poles.002
+    400238: Hammer Throw Cage.002
+    400240: Hammer Throw Circle.002
+    400242: Hammer Throw Markings.002
+    400244: Hammer Throw.002
+    400246: Handrails.002
+    400248: High Jump Bar Holders.002
+    400250: High Jump Bar.002
+    400252: High Jump Markings.002
+    400254: High Jump Mat.002
+    400256: High Jump Uprights.002
+    400258: High Jump.002
+    400260: Inner Kerb.002
+    400262: Javelin Throw Kerb.002
+    400264: Javelin Throw Markings.002
+    400266: Javelin Throw.002
+    400268: Long Jump Take-Off Boards.002
+    400270: Long/Tripple Jump Markings.002
+    400272: Long/Tripple Jump Sand Pit.002
+    400274: Long/Tripple Jump.002
+    400276: Monitor 1.002
+    400278: Monitor 2.002
+    400280: Monitors.002
+    400282: Pole Vault Bar Holders.002
+    400284: Pole Vault Bar.002
+    400286: Pole Vault Blanking Board.002
+    400288: Pole Vault Markings.002
+    400290: Pole Vault Mat.002
+    400292: Pole Vault Uprights.002
+    400294: Pole Vault.002
+    400296: Roof.002
+    400298: Shot Put Markings.002
+    400300: Shot Put Stop Board.002
+    400302: Shot Put Throwing Circle.002
+    400304: Shot Put.002
+    400306: Stairs HQ.002
+    400308: Stands.002
+    400310: Steeplechase Kerb.002
+    400312: Steeplechase Water Bassin.002
+    400314: Steeplechase.002
+    400316: Throwing Cage Door 1.002
+    400318: Throwing Cage Door 2.002
+    400320: Track Markings.002
+    400322: Track.002
+    400324: Tripple Jump Take-Off Boards (Men).002
+    400326: Tripple Jump Take-Off Boards (Women).002
+    400328: Water Jump Steeple (Men).002
+    400330: Water Jump Steeple (Women).002
+    400332: Finish Signal Cones
+    400334: Javelin Throw Signal Cones
+    400336: Long Jump Distance Sign
+    400338: Steeplechase Signal Cones
+    400340: Floodlight 1 LQ
+    400342: Floodlight 1 HQ
+    400344: Floodlight 2 HQ
+    400346: Floodlight 3 HQ
+    400348: Floodlight 4 HQ
+    2100000: No Name
+    2100002: High Jump Mat
+    2100004: Metal
+    2100006: BarMaterial
+    2100008: Grass
+    2100010: Discus Throw Net
+    2100012: BlankingBoardMaterial
+    2100014: MatMaterial
+    2100016: SandMaterial
+    2100018: Plastic (black)
+    2100020: Pole Vault Bar
+    2100022: Pole Vault Mat
+    2100024: High Jump Bar
+    2100026: Plastic (white)
+    2100028: Markings
+    2100030: Track
+    2100032: Throwing Circle
+    2100034: Sand
+    2100036: Steeple
+    2100038: Bar Holders
+    2100040: Steeplechase Water Bassin
+    2100042: Markings (white)
+    2100044: Markings (green)
+    2100046: Markings (blue)
+    2100048: Markings (yellow)
+    2100050: Throwing Cage Net
+    2100052: Metal (red)
+    2100054: Metal (grey)
+    2100056: Advertising Board
+    2100058: Stands
+    2100060: Concrete
+    2100062: Glass
+    2100064: Fence
+    2100066: Stairs
+    2100068: Metal (white)
+    2100070: Wood
+    2100072: Monitor
+    2100074: Wood (white)
+    2100076: Wood (brown)
+    2100078: Hammer Throw Cage
+    2100080: Stairs LQ
+    2100082: Metal (red).002
+    2100084: Discus Throw Net.002
+    2100086: Throwing Circle.002
+    2100088: Markings (white).002
+    2100090: Metal (grey).002
+    2100092: High Jump Mat.002
+    2100094: Plastic (black).002
+    2100096: High Jump Bar.002
+    2100098: Plastic (white).002
+    2100100: Sand.002
+    2100102: Pole Vault Bar.002
+    2100104: Pole Vault Mat.002
+    2100106: Wood (white).002
+    2100108: Hammer Throw Cage.002
+    2100110: Glass.002
+    2100112: Metal (white).002
+    2100114: Concrete.002
+    2100116: Monitor.002
+    2100118: Stands.002
+    2100120: Stairs LQ.002
+    2100122: Wood (brown).002
+    2100124: Fence.002
+    2100126: Advertising Board.002
+    2100128: Steeplechase Water Bassin.002
+    2100130: Steeple.002
+    2100132: Bar Holders.002
+    2100134: Track.002
+    2100136: Markings (green).002
+    2100138: Markings (blue).002
+    2100140: Markings (yellow).002
+    2100142: Grass.002
+    2100144: Handrails
+    2100146: Plastic (red)
+    2100148: Concrete.001
+    2100150: Plastic (orange).002
+    2100152: Plastic (orange).001
+    2100154: Metal (blue)
+    2100156: Floodlight
+    2300000: Bar Holders
+    2300002: BarHoldersPV
+    2300004: BlankingBoard
+    2300006: Discus Throw
+    2300008: Grass
+    2300010: High Jump
+    2300012: High Jump.001
+    2300014: Inner Kerb
+    2300016: LeftUprightPV
+    2300018: Long Jump
+    2300020: Markings
+    2300022: Mat
+    2300024: MatPV
+    2300026: Net
+    2300028: PoleVault
+    2300030: RightUprightPV
+    2300032: Sand Pit
+    2300034: ShotPut
+    2300036: ShotPutThrowingCircle
+    2300038: Track
+    2300040: Uprights
+    2300042: Bar
+    2300044: High Jump Bar
+    2300046: High Jump Bar Holders
+    2300048: High Jump Mat
+    2300050: High Jump Uprights
+    2300052: Pole Vault Bar
+    2300054: Pole Vault Bar Holders
+    2300056: Pole Vault Blanking Board
+    2300058: Pole Vault Mat
+    2300060: Pole Vault Uprights
+    2300062: Discus Throw Circle
+    2300064: Discus Throw Net
+    2300066: Long Jump Sand Pit
+    2300068: Long Jump Take-Off Boards
+    2300070: Shot Put Stop Board
+    2300072: Shot Put Throwing Circle
+    2300074: Grass.001
+    2300076: Shot Put Markings
+    2300078: High Jump Markings
+    2300080: Long Jump Markings
+    2300082: Discus Throw Markings
+    2300084: Javelin Throw Markings
+    2300086: Pole Vault Markings
+    2300088: Track Markings
+    2300090: Javelin Throw Kerb
+    2300092: Measurements
+    2300094: Steeplechase Kerb
+    2300096: Steeplechase Water Bassin
+    2300098: Water Jump Steeple (Men)
+    2300100: Water Jump Steeple (Women)
+    2300102: Discus Throw Border
+    2300104: Discus/Hammer Throw Circle
+    2300106: Discus/Hammer Throw Markings
+    2300108: Hammer Throw Border
+    2300110: Long/Tripple Jump Markings
+    2300112: Long/Tripple Jump Sand Pit
+    2300114: Throwing Cage
+    2300116: Throwing Cage Door 1
+    2300118: Throwing Cage Door 2
+    2300120: Tripple Jump Take-Off Boards (Men)
+    2300122: Tripple Jump Take-Off Boards (Women)
+    2300124: 'Discus Throw Border '
+    2300126: Discus/Hammer Throw Cage
+    2300128: Advertising Board
+    2300130: Stands
+    2300132: Roof
+    2300134: Fences
+    2300136: Hammer Throw Cage
+    2300138: Hammer Throw Circle
+    2300140: Hammer Throw Markings
+    2300142: Handrails
+    2300144: Stairs
+    2300146: Stairs.001
+    2300148: Stairs.002
+    2300150: Stairs HQ
+    2300152: Stairs LQ
+    2300154: Discus Throw Poles
+    2300156: Floodlight 1
+    2300158: Floodlight 2
+    2300160: Floodlight 3
+    2300162: Floodlight 4
+    2300164: Monitor 1
+    2300166: Monitor 1 Display
+    2300168: Monitor 2
+    2300170: Monitor 2 Display
+    2300172: Hammer Throw Cage Poles
+    2300174: Rim
+    2300176: High Jump Mat.001
+    2300178: Audience Seats
+    2300180: Advertising Board.002
+    2300182: Audience Seats.002
+    2300184: Discus Throw Border .002
+    2300186: Discus Throw Circle.002
+    2300188: Discus Throw Markings.002
+    2300190: Discus Throw Net.002
+    2300192: Discus Throw Poles.002
+    2300194: Fences.002
+    2300196: Floodlight 1.002
+    2300198: Floodlight 2.002
+    2300200: Floodlight 3.002
+    2300202: Floodlight 4.002
+    2300204: Grass.002
+    2300206: Hammer Throw Border.002
+    2300208: Hammer Throw Cage Poles.002
+    2300210: Hammer Throw Cage.002
+    2300212: Hammer Throw Circle.002
+    2300214: Hammer Throw Markings.002
+    2300216: Handrails.002
+    2300218: High Jump Bar Holders.002
+    2300220: High Jump Bar.002
+    2300222: High Jump Markings.002
+    2300224: High Jump Mat.002
+    2300226: High Jump Uprights.002
+    2300228: Inner Kerb.002
+    2300230: Javelin Throw Kerb.002
+    2300232: Javelin Throw Markings.002
+    2300234: Long Jump Take-Off Boards.002
+    2300236: Long/Tripple Jump Markings.002
+    2300238: Long/Tripple Jump Sand Pit.002
+    2300240: Monitor 1.002
+    2300242: Monitor 2.002
+    2300244: Pole Vault Bar Holders.002
+    2300246: Pole Vault Bar.002
+    2300248: Pole Vault Blanking Board.002
+    2300250: Pole Vault Markings.002
+    2300252: Pole Vault Mat.002
+    2300254: Pole Vault Uprights.002
+    2300256: Roof.002
+    2300258: Shot Put Markings.002
+    2300260: Shot Put Stop Board.002
+    2300262: Shot Put Throwing Circle.002
+    2300264: Stairs HQ.002
+    2300266: Stands.002
+    2300268: Steeplechase Kerb.002
+    2300270: Steeplechase Water Bassin.002
+    2300272: Throwing Cage Door 1.002
+    2300274: Throwing Cage Door 2.002
+    2300276: Track Markings.002
+    2300278: Track.002
+    2300280: Tripple Jump Take-Off Boards (Men).002
+    2300282: Tripple Jump Take-Off Boards (Women).002
+    2300284: Water Jump Steeple (Men).002
+    2300286: Water Jump Steeple (Women).002
+    2300288: Finish Signal Cones
+    2300290: Javelin Throw Signal Cones
+    2300292: Long Jump Distance Sign
+    2300294: Steeplechase Signal Cones
+    2300296: Floodlight 1 LQ
+    2300298: Floodlight 1 HQ
+    2300300: Floodlight 2 HQ
+    2300302: Floodlight 3 HQ
+    2300304: Floodlight 4 HQ
+    3300000: Bar Holders
+    3300002: BarHoldersPV
+    3300004: BlankingBoard
+    3300006: Discus Throw
+    3300008: Grass
+    3300010: High Jump
+    3300012: High Jump.001
+    3300014: Inner Kerb
+    3300016: LeftUprightPV
+    3300018: Long Jump
+    3300020: Markings
+    3300022: Mat
+    3300024: MatPV
+    3300026: Net
+    3300028: PoleVault
+    3300030: RightUprightPV
+    3300032: Sand Pit
+    3300034: ShotPut
+    3300036: ShotPutThrowingCircle
+    3300038: Track
+    3300040: Uprights
+    3300042: Bar
+    3300044: High Jump Bar
+    3300046: High Jump Bar Holders
+    3300048: High Jump Mat
+    3300050: High Jump Uprights
+    3300052: Pole Vault Bar
+    3300054: Pole Vault Bar Holders
+    3300056: Pole Vault Blanking Board
+    3300058: Pole Vault Mat
+    3300060: Pole Vault Uprights
+    3300062: Discus Throw Circle
+    3300064: Discus Throw Net
+    3300066: Long Jump Sand Pit
+    3300068: Long Jump Take-Off Boards
+    3300070: Shot Put Stop Board
+    3300072: Shot Put Throwing Circle
+    3300074: Grass.001
+    3300076: Shot Put Markings
+    3300078: High Jump Markings
+    3300080: Long Jump Markings
+    3300082: Discus Throw Markings
+    3300084: Javelin Throw Markings
+    3300086: Pole Vault Markings
+    3300088: Track Markings
+    3300090: Javelin Throw Kerb
+    3300092: Measurements
+    3300094: Steeplechase Kerb
+    3300096: Steeplechase Water Bassin
+    3300098: Water Jump Steeple (Men)
+    3300100: Water Jump Steeple (Women)
+    3300102: Discus Throw Border
+    3300104: Discus/Hammer Throw Circle
+    3300106: Discus/Hammer Throw Markings
+    3300108: Hammer Throw Border
+    3300110: Long/Tripple Jump Markings
+    3300112: Long/Tripple Jump Sand Pit
+    3300114: Throwing Cage
+    3300116: Throwing Cage Door 1
+    3300118: Throwing Cage Door 2
+    3300120: Tripple Jump Take-Off Boards (Men)
+    3300122: Tripple Jump Take-Off Boards (Women)
+    3300124: 'Discus Throw Border '
+    3300126: Discus/Hammer Throw Cage
+    3300128: Advertising Board
+    3300130: Stands
+    3300132: Roof
+    3300134: Fences
+    3300136: Hammer Throw Cage
+    3300138: Hammer Throw Circle
+    3300140: Hammer Throw Markings
+    3300142: Handrails
+    3300144: Stairs
+    3300146: Stairs.001
+    3300148: Stairs.002
+    3300150: Stairs HQ
+    3300152: Stairs LQ
+    3300154: Discus Throw Poles
+    3300156: Floodlight 1
+    3300158: Floodlight 2
+    3300160: Floodlight 3
+    3300162: Floodlight 4
+    3300164: Monitor 1
+    3300166: Monitor 1 Display
+    3300168: Monitor 2
+    3300170: Monitor 2 Display
+    3300172: Hammer Throw Cage Poles
+    3300174: Rim
+    3300176: High Jump Mat.001
+    3300178: Audience Seats
+    3300180: Advertising Board.002
+    3300182: Audience Seats.002
+    3300184: Discus Throw Border .002
+    3300186: Discus Throw Circle.002
+    3300188: Discus Throw Markings.002
+    3300190: Discus Throw Net.002
+    3300192: Discus Throw Poles.002
+    3300194: Fences.002
+    3300196: Floodlight 1.002
+    3300198: Floodlight 2.002
+    3300200: Floodlight 3.002
+    3300202: Floodlight 4.002
+    3300204: Grass.002
+    3300206: Hammer Throw Border.002
+    3300208: Hammer Throw Cage Poles.002
+    3300210: Hammer Throw Cage.002
+    3300212: Hammer Throw Circle.002
+    3300214: Hammer Throw Markings.002
+    3300216: Handrails.002
+    3300218: High Jump Bar Holders.002
+    3300220: High Jump Bar.002
+    3300222: High Jump Markings.002
+    3300224: High Jump Mat.002
+    3300226: High Jump Uprights.002
+    3300228: Inner Kerb.002
+    3300230: Javelin Throw Kerb.002
+    3300232: Javelin Throw Markings.002
+    3300234: Long Jump Take-Off Boards.002
+    3300236: Long/Tripple Jump Markings.002
+    3300238: Long/Tripple Jump Sand Pit.002
+    3300240: Monitor 1.002
+    3300242: Monitor 2.002
+    3300244: Pole Vault Bar Holders.002
+    3300246: Pole Vault Bar.002
+    3300248: Pole Vault Blanking Board.002
+    3300250: Pole Vault Markings.002
+    3300252: Pole Vault Mat.002
+    3300254: Pole Vault Uprights.002
+    3300256: Roof.002
+    3300258: Shot Put Markings.002
+    3300260: Shot Put Stop Board.002
+    3300262: Shot Put Throwing Circle.002
+    3300264: Stairs HQ.002
+    3300266: Stands.002
+    3300268: Steeplechase Kerb.002
+    3300270: Steeplechase Water Bassin.002
+    3300272: Throwing Cage Door 1.002
+    3300274: Throwing Cage Door 2.002
+    3300276: Track Markings.002
+    3300278: Track.002
+    3300280: Tripple Jump Take-Off Boards (Men).002
+    3300282: Tripple Jump Take-Off Boards (Women).002
+    3300284: Water Jump Steeple (Men).002
+    3300286: Water Jump Steeple (Women).002
+    3300288: Finish Signal Cones
+    3300290: Javelin Throw Signal Cones
+    3300292: Long Jump Distance Sign
+    3300294: Steeplechase Signal Cones
+    3300296: Floodlight 1 LQ
+    3300298: Floodlight 1 HQ
+    3300300: Floodlight 2 HQ
+    3300302: Floodlight 3 HQ
+    3300304: Floodlight 4 HQ
+    4300000: High Jump
+    4300002: Bar Holders
+    4300004: Mat
+    4300006: Uprights
+    4300008: High Jump.001
+    4300010: Grass
+    4300012: Inner Kerb
+    4300014: Discus Throw
+    4300016: Net
+    4300018: PoleVault
+    4300020: BarHoldersPV
+    4300022: BlankingBoard
+    4300024: LeftUprightPV
+    4300026: MatPV
+    4300028: RightUprightPV
+    4300030: Long Jump
+    4300032: Sand Pit
+    4300034: ShotPut
+    4300036: ShotPutThrowingCircle
+    4300038: Markings
+    4300040: Track
+    4300042: Bar
+    4300044: High Jump Bar Holders
+    4300046: High Jump Mat
+    4300048: High Jump Uprights
+    4300050: High Jump Bar
+    4300052: Pole Vault Blanking Board
+    4300054: Pole Vault Uprights
+    4300056: Pole Vault Bar Holders
+    4300058: Pole Vault Bar
+    4300060: Pole Vault Mat
+    4300062: Shot Put Stop Board
+    4300064: Shot Put Throwing Circle
+    4300066: Discus Throw Circle
+    4300068: Discus Throw Net
+    4300070: Long Jump Take-Off Boards
+    4300072: Long Jump Sand Pit
+    4300074: Grass.001
+    4300076: Shot Put Markings
+    4300078: Long Jump Markings
+    4300080: High Jump Markings
+    4300082: Javelin Throw Markings
+    4300084: Discus Throw Markings
+    4300086: Pole Vault Markings
+    4300088: Track Markings
+    4300090: Steeplechase Kerb
+    4300092: Water Jump Steeple (Women)
+    4300094: Steeplechase Water Bassin
+    4300096: Water Jump Steeple (Men)
+    4300098: Measurements
+    4300100: Javelin Throw Kerb
+    4300102: Throwing Cage
+    4300104: Throwing Cage Door 2
+    4300106: Throwing Cage Door 1
+    4300108: Discus/Hammer Throw Circle
+    4300110: Hammer Throw Border
+    4300112: Discus/Hammer Throw Markings
+    4300114: Discus Throw Border
+    4300116: Tripple Jump Take-Off Boards (Women)
+    4300118: Tripple Jump Take-Off Boards (Men)
+    4300120: Long/Tripple Jump Markings
+    4300122: Long/Tripple Jump Sand Pit
+    4300124: Discus/Hammer Throw Cage
+    4300126: 'Discus Throw Border '
+    4300128: Advertising Board
+    4300130: Stands
+    4300132: Roof
+    4300134: Hammer Throw Circle
+    4300136: Hammer Throw Markings
+    4300138: Hammer Throw Cage
+    4300140: Fences
+    4300142: Stairs.002
+    4300144: Stairs.001
+    4300146: Handrails
+    4300148: Stairs
+    4300150: Stairs LQ
+    4300152: Stairs HQ
+    4300154: Discus Throw Poles
+    4300156: Floodlight 4
+    4300158: Floodlight 3
+    4300160: Floodlight 2
+    4300162: Floodlight 1
+    4300164: Monitor 2
+    4300166: Monitor 2 Display
+    4300168: Monitor 1
+    4300170: Monitor 1 Display
+    4300172: Hammer Throw Cage Poles
+    4300174: Rim
+    4300176: High Jump Mat.001
+    4300178: Audience Seats
+    4300180: Discus Throw Poles.002
+    4300182: Discus Throw Net.002
+    4300184: Discus Throw Circle.002
+    4300186: Discus Throw Markings.002
+    4300188: Discus Throw Border .002
+    4300190: High Jump Markings.002
+    4300192: High Jump Mat.002
+    4300194: High Jump Uprights.002
+    4300196: High Jump Bar Holders.002
+    4300198: High Jump Bar.002
+    4300200: Javelin Throw Markings.002
+    4300202: Javelin Throw Kerb.002
+    4300204: Tripple Jump Take-Off Boards (Women).002
+    4300206: Tripple Jump Take-Off Boards (Men).002
+    4300208: Long/Tripple Jump Markings.002
+    4300210: Long Jump Take-Off Boards.002
+    4300212: Long/Tripple Jump Sand Pit.002
+    4300214: Pole Vault Markings.002
+    4300216: Pole Vault Blanking Board.002
+    4300218: Pole Vault Uprights.002
+    4300220: Pole Vault Bar Holders.002
+    4300222: Pole Vault Bar.002
+    4300224: Pole Vault Mat.002
+    4300226: Shot Put Throwing Circle.002
+    4300228: Shot Put Markings.002
+    4300230: Shot Put Stop Board.002
+    4300232: Hammer Throw Cage Poles.002
+    4300234: Hammer Throw Cage.002
+    4300236: Throwing Cage Door 2.002
+    4300238: Throwing Cage Door 1.002
+    4300240: Hammer Throw Border.002
+    4300242: Hammer Throw Circle.002
+    4300244: Hammer Throw Markings.002
+    4300246: Roof.002
+    4300248: Floodlight 4.002
+    4300250: Floodlight 3.002
+    4300252: Floodlight 2.002
+    4300254: Floodlight 1.002
+    4300256: Monitor 2.002
+    4300258: Monitor 1.002
+    4300260: Stands.002
+    4300262: Audience Seats.002
+    4300264: Handrails.002
+    4300266: Fences.002
+    4300268: Stairs HQ.002
+    4300270: Advertising Board.002
+    4300272: Steeplechase Kerb.002
+    4300274: Steeplechase Water Bassin.002
+    4300276: Water Jump Steeple (Women).002
+    4300278: Water Jump Steeple (Men).002
+    4300280: Track.002
+    4300282: Inner Kerb.002
+    4300284: Track Markings.002
+    4300286: Grass.002
+    4300288: Javelin Throw Signal Cones
+    4300290: Long Jump Distance Sign
+    4300292: Steeplechase Signal Cones
+    4300294: Finish Signal Cones
+    4300296: Floodlight 1 LQ
+    4300298: Floodlight 4 HQ
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Advertising Board
+    second: {fileID: 2100000, guid: bb73b36b2f51d4d2287b99d597eec803, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Discus Throw Net
+    second: {fileID: 2100000, guid: df4e49b55929640d5a97594777aa2e50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fence
+    second: {fileID: 2100000, guid: 5ce73a412beb84627ab99eff9253dcc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floodlight
+    second: {fileID: 2100000, guid: 366ea82face5d431eb3896d3ddd578cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass
+    second: {fileID: 2100000, guid: b967c13734a81435fbf0998f710fd14b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hammer Throw Cage
+    second: {fileID: 2100000, guid: ce545bf2222774b249c79431ea86a06e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Handrails
+    second: {fileID: 2100000, guid: 5ce73a412beb84627ab99eff9253dcc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: High Jump Mat
+    second: {fileID: 2100000, guid: e7ef47b8ec2274bc6b27bc8125fa8283, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pole Vault Mat
+    second: {fileID: 2100000, guid: 34488f9b39e9e46088a397f3daf12764, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sand
+    second: {fileID: 2100000, guid: 23205b68ed60a42e6851de19b8acfa7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs
+    second: {fileID: 2100000, guid: 49589be34f3134804925b1c22334e688, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs LQ
+    second: {fileID: 2100000, guid: 49589be34f3134804925b1c22334e688, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stands
+    second: {fileID: 2100000, guid: 7b7eb9cfffea34fe9995f4aa6bf5e665, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Track
+    second: {fileID: 2100000, guid: cb7039bb1f11846949444e81fa79e11a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

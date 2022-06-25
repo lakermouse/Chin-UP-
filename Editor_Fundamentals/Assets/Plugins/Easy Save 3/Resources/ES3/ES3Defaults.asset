@@ -34,8 +34,10 @@ MonoBehaviour:
     - Assembly-CSharp-firstpass
     - InspectorGadgets
     - DamageNumbersPro
+    - Rowlan.AnimationPreview.Runtime
     - PPv2URPConverters
     - EpsilonDelta.MeasureTool.Editor
+    - Rowlan.AnimationPreview.Editor
     showAdvancedSettings: 0
   addMgrToSceneAutomatically: 0
   autoUpdateReferences: 1
