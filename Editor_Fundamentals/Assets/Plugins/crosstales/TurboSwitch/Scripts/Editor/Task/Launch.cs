@@ -1,0 +1,24 @@
+﻿#if UNITY_EDITOR
+using System.Linq;
+using UnityEditor;
+using Enumerable = System.Linq.Enumerable;
+
+namespace Crosstales.TPS.Task
+{
+   /// <summary>Show the configuration window on the first launch.</summary>
+   public class Launch : AssetPostprocessor
+   {
+      public static void OnPostprocessAllAssets(string[] importedAssets, string[] deletedAssets, string[] movedAssets, string[] movedFromAssetPaths)
+      {
+         if (importedAssets.Any(str => str.Contains(Crosstales.TPS.Util.Constants.ASSET_UID.ToString())))
+         {
+            Crosstales.Common.EditorTask.SetupResources.Setup();
+            SetupResources.Setup();
+
+            EditorIntegration.ConfigWindow.ShowWindow(3);
+         }
+      }
+   }
+}
+#endif
+// © 2017-2022 crosstales LLC (https://www.crosstales.com)

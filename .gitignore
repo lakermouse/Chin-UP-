@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-Unity_Fundamentals/[Ll]ibrary/
-Unity_Fundamentals/[Tt]emp/
-Unity_Fundamentals/[Oo]bj/
-Unity_Fundamentals/[Bb]uild/
-Unity_Fundamentals/[Bb]uilds/
-Unity_Fundamentals/[Ll]ogs/
-Unity_Fundamentals/[Uu]ser[Ss]ettings/
+Editor_Fundamentals/[Ll]ibrary/
+Editor_Fundamentals/[Tt]emp/
+Editor_Fundamentals/[Oo]bj/
+Editor_Fundamentals/[Bb]uild/
+Editor_Fundamentals/[Bb]uilds/
+Editor_Fundamentals/[Ll]ogs/
+Editor_Fundamentals/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data

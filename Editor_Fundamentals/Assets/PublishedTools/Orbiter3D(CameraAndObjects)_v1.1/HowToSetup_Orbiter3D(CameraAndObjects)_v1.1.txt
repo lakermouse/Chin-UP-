@@ -1,0 +1,41 @@
+INTRODUCTION:
+Dear Developer/Artist;
+Thanks for getting the "Orbiter 3D (Camera and Objects) v1.1" Tool.
+
+Your comfort with this tool is my priority
+Any doubts feel free to contact me and I will be happy to help you.
+
+dbuitgames@gmail.com
+
+A sample scene is ready to play with.
+
+
+
+
+
+
+HOW TO:
+1. Attach the script "Orbiter_Behaviour_v1_1" to the Gameobject you want to orbit around another Gameobject.
+2. Drag the desired center of gravitation Gameobject to the "Orbject to Orbit Around" slot.
+3. Edit Parameters:
+     ·Object Looks at Center: With this option, your orbiting Gameobject will always
+                              look at the center of gravitation (Object to Orbit Around).
+						      *Z Axis is the one that will point to the center of Gravitation.
+     ·Dist to Orbit center: Enter the distance from the orbit center.
+	 ·Orbit Speed: Enter the orbit speed (Enter negative values to orbit the opposite direction).
+	 ·Inclination: From -1 to 1, select the inclination value which will set the Orbiter object
+	               in a spherical radius height regarding the center (-1 on the top, 1 on the bottom)
+	 ·Up and Down: Sets an "up and down" movement while orbitting regarding the Inclination parameter
+	 ·Up and Down Speed: Sets the "up and down" movement speed
+                           
+   
+
+
+
+
+
+
+
+
+A comment/rating would be appreciated if you enjoy this tool.
+

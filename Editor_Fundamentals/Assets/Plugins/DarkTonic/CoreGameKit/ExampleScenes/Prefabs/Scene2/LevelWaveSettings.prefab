@@ -1,0 +1,748 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &115012
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 407948}
+  - 114: {fileID: 11444998}
+  m_Layer: 0
+  m_Name: PoolBoss
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &117504
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 411168}
+  - 114: {fileID: 11407432}
+  m_Layer: 0
+  m_Name: Health
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &117628
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 428790}
+  - 114: {fileID: 11499454}
+  m_Layer: 0
+  m_Name: PrefabPools
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &124818
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 470482}
+  - 114: {fileID: 11466592}
+  m_Layer: 0
+  m_Name: Enemy Speed
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &128678
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 461962}
+  - 114: {fileID: 11462822}
+  m_Layer: 0
+  m_Name: Lives
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &144440
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 447370}
+  - 114: {fileID: 11470266}
+  m_Layer: 0
+  m_Name: Game Currency
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &144510
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 474596}
+  - 114: {fileID: 11437228}
+  m_Layer: 0
+  m_Name: WorldVariables
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &161344
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 403872}
+  m_Layer: 0
+  m_Name: Spawners
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &164236
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 428036}
+  - 114: {fileID: 11414318}
+  m_Layer: 0
+  m_Name: Score
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &184520
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 402136}
+  - 114: {fileID: 11489802}
+  m_Layer: 0
+  m_Name: Experience Points
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &193466
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 471700}
+  - 114: {fileID: 11474872}
+  m_Layer: 0
+  m_Name: LevelWaveSettings
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &402136
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 184520}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 474596}
+  m_RootOrder: 2
+--- !u!4 &403872
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 161344}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 471700}
+  m_RootOrder: 2
+--- !u!4 &407948
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 115012}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 471700}
+  m_RootOrder: 0
+--- !u!4 &411168
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 117504}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 474596}
+  m_RootOrder: 0
+--- !u!4 &428036
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 164236}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 474596}
+  m_RootOrder: 3
+--- !u!4 &428790
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 117628}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 471700}
+  m_RootOrder: 3
+--- !u!4 &447370
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 144440}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 474596}
+  m_RootOrder: 1
+--- !u!4 &461962
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 128678}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 474596}
+  m_RootOrder: 4
+--- !u!4 &470482
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 124818}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 474596}
+  m_RootOrder: 5
+--- !u!4 &471700
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 193466}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 407948}
+  - {fileID: 474596}
+  - {fileID: 403872}
+  - {fileID: 428790}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!4 &474596
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 144510}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 411168}
+  - {fileID: 447370}
+  - {fileID: 402136}
+  - {fileID: 428036}
+  - {fileID: 461962}
+  - {fileID: 470482}
+  m_Father: {fileID: 471700}
+  m_RootOrder: 1
+--- !u!114 &11407432
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 117504}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77f3611b309e62747b906d3d69945b2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isExpanded: 0
+  varType: 0
+  allowNegative: 0
+  canEndGame: 0
+  hasMaxValue: 0
+  startingValue: 101
+  endGameMinValue: 0
+  endGameMaxValue: 0
+  prospectiveValue: 0
+  intMaxValue: 100
+  startingValueFloat: 0
+  endGameMinValueFloat: 0
+  endGameMaxValueFloat: 0
+  prospectiveFloatValue: 0
+  floatMaxValue: 100
+  persistanceMode: 0
+  listenerPrefab: {fileID: 0}
+  changeMode: 2
+  fireEventsOnChange: 0
+  changeCustomEventsToFire: []
+--- !u!114 &11414318
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 164236}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77f3611b309e62747b906d3d69945b2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isExpanded: 1
+  varType: 0
+  allowNegative: 0
+  canEndGame: 0
+  hasMaxValue: 0
+  startingValue: 0
+  endGameMinValue: -2000
+  endGameMaxValue: 0
+  prospectiveValue: 0
+  intMaxValue: 100
+  startingValueFloat: 0
+  endGameMinValueFloat: 0
+  endGameMaxValueFloat: 0
+  prospectiveFloatValue: 0
+  floatMaxValue: 100
+  persistanceMode: 0
+  listenerPrefab: {fileID: 0}
+  changeMode: 2
+  fireEventsOnChange: 0
+  changeCustomEventsToFire: []
+--- !u!114 &11437228
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 144510}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9effea21b0e353148a46437f7c762ba1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  statPrefab: {fileID: 400000, guid: 92cc514738e77714ea457996d5e41318, type: 2}
+  newVariableName: Enemy Speed
+  showNewVarSection: 1
+  newVarType: 1
+  worldVariablesExpanded: 1
+  showIntVars: 1
+  showFloatVars: 1
+  frames: 0
+--- !u!114 &11444998
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 115012}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd2ab4313364af4ab376f1dbc8fd03e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  poolItems:
+  - prefabTransform: {fileID: 400000, guid: 8b641ab13bb655646bb63b29ac827ccc, type: 2}
+    instancesToPreload: 30
+    isExpanded: 0
+    logMessages: 0
+    allowInstantiateMore: 0
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 10
+    allowRecycle: 0
+    categoryName: Enemies
+  - prefabTransform: {fileID: 400000, guid: 72e6f4050c047b24b8daf5f55fefae0c, type: 2}
+    instancesToPreload: 20
+    isExpanded: 0
+    logMessages: 0
+    allowInstantiateMore: 0
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 10
+    allowRecycle: 0
+    categoryName: Particles
+  - prefabTransform: {fileID: 400000, guid: 1f5b4c091dd641f4bb01a75d14957545, type: 2}
+    instancesToPreload: 5
+    isExpanded: 0
+    logMessages: 0
+    allowInstantiateMore: 0
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 10
+    allowRecycle: 0
+    categoryName: Enemies
+  - prefabTransform: {fileID: 400000, guid: f99e8af110b08bc4b9ae9819b3552c8c, type: 2}
+    instancesToPreload: 5
+    isExpanded: 0
+    logMessages: 0
+    allowInstantiateMore: 0
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 10
+    allowRecycle: 0
+    categoryName: Enemies
+  - prefabTransform: {fileID: 400000, guid: 599956a0e1c977e49bd80c0c66ecff91, type: 2}
+    instancesToPreload: 10
+    isExpanded: 0
+    logMessages: 0
+    allowInstantiateMore: 0
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 10
+    allowRecycle: 0
+    categoryName: Enemies
+  - prefabTransform: {fileID: 400000, guid: 9b77872f1ed9f2844988cf76756746fd, type: 2}
+    instancesToPreload: 10
+    isExpanded: 0
+    logMessages: 0
+    allowInstantiateMore: 0
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 10
+    allowRecycle: 0
+    categoryName: Enemies
+  - prefabTransform: {fileID: 400000, guid: bb5a3767a483b8740a450e7c3c621eae, type: 2}
+    instancesToPreload: 5
+    isExpanded: 0
+    logMessages: 0
+    allowInstantiateMore: 0
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 10
+    allowRecycle: 0
+    categoryName: Player
+  - prefabTransform: {fileID: 400000, guid: ca9eceaed0be5fa458ce765577e93f17, type: 2}
+    instancesToPreload: 5
+    isExpanded: 0
+    logMessages: 0
+    allowInstantiateMore: 0
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 10
+    allowRecycle: 0
+    categoryName: Player
+  - prefabTransform: {fileID: 400000, guid: ecdc40fda447a2846afe8ea60d1ad582, type: 2}
+    instancesToPreload: 5
+    isExpanded: 0
+    logMessages: 0
+    allowInstantiateMore: 0
+    enableNavMeshAgentOnSpawn: 0
+    delayNavMeshEnableByFrames: 1
+    itemHardLimit: 10
+    allowRecycle: 0
+    categoryName: Enemies
+  logMessages: 0
+  useTextFilter: 0
+  showLegend: 1
+  textFilter: 
+  autoAddMissingPoolItems: 0
+  allowDespawningInactive: 0
+  newCategoryName: Player
+  addToCategoryName: New Category
+  framesForInit: 1
+  listener: {fileID: 0}
+  _changes: 0
+  _categories:
+  - CatName: Enemies
+    IsExpanded: 0
+    IsEditing: 0
+    ProspectiveName: Enemies
+  - CatName: Particles
+    IsExpanded: 0
+    IsEditing: 0
+    ProspectiveName: Particles
+  - CatName: Player
+    IsExpanded: 0
+    IsEditing: 0
+    ProspectiveName: Player
+  IsPhotonNetworked: 0
+--- !u!114 &11462822
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 128678}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77f3611b309e62747b906d3d69945b2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isExpanded: 1
+  varType: 0
+  allowNegative: 0
+  canEndGame: 1
+  hasMaxValue: 0
+  startingValue: 3
+  endGameMinValue: 0
+  endGameMaxValue: 0
+  prospectiveValue: 0
+  intMaxValue: 100
+  startingValueFloat: 0
+  endGameMinValueFloat: 0
+  endGameMaxValueFloat: 0
+  prospectiveFloatValue: 0
+  floatMaxValue: 100
+  persistanceMode: 0
+  listenerPrefab: {fileID: 0}
+  changeMode: 2
+  fireEventsOnChange: 0
+  changeCustomEventsToFire: []
+--- !u!114 &11466592
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 124818}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77f3611b309e62747b906d3d69945b2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isExpanded: 0
+  varType: 1
+  allowNegative: 0
+  canEndGame: 0
+  hasMaxValue: 0
+  startingValue: 21
+  endGameMinValue: 0
+  endGameMaxValue: 0
+  prospectiveValue: 0
+  intMaxValue: 100
+  startingValueFloat: 0
+  endGameMinValueFloat: 0
+  endGameMaxValueFloat: 0
+  prospectiveFloatValue: 0
+  floatMaxValue: 100
+  persistanceMode: 0
+  listenerPrefab: {fileID: 0}
+  changeMode: 2
+  fireEventsOnChange: 0
+  changeCustomEventsToFire: []
+--- !u!114 &11470266
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 144440}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77f3611b309e62747b906d3d69945b2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isExpanded: 0
+  varType: 0
+  allowNegative: 0
+  canEndGame: 0
+  hasMaxValue: 0
+  startingValue: 0
+  endGameMinValue: 0
+  endGameMaxValue: 0
+  prospectiveValue: 0
+  intMaxValue: 100
+  startingValueFloat: 0
+  endGameMinValueFloat: 0
+  endGameMaxValueFloat: 0
+  prospectiveFloatValue: 0
+  floatMaxValue: 100
+  persistanceMode: 1
+  listenerPrefab: {fileID: 0}
+  changeMode: 2
+  fireEventsOnChange: 0
+  changeCustomEventsToFire: []
+--- !u!114 &11474872
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 193466}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc2c4a14aa6287b42a5c71d774cb2174, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  useMusicSettings: 1
+  showLevelSettings: 1
+  showCustomEvents: 0
+  gameStatsExpanded: 0
+  newEventName: my event
+  listener: {fileID: 0}
+  RedSpawnerTrans: {fileID: 400000, guid: a55a4529e623189409cc61a63c6364f6, type: 2}
+  GreenSpawnerTrans: {fileID: 400000, guid: e121bde1411b84240bc764138546b3b7, type: 2}
+  PrefabPoolTrans: {fileID: 400000, guid: 9851599e1296c6a46a6bdd48b6ce09d4, type: 2}
+  newSpawnerName: WildCard
+  newPrefabPoolExpanded: 1
+  newPrefabPoolName: MixedEnemies
+  newSpawnerType: 0
+  gameOverMusicSettings:
+    WaveMusicMode: 2
+    WaveMusic: {fileID: 0}
+    WaveMusicVolume: 1
+    FadeTime: 2
+  spawnersExpanded: 0
+  createSpawnerExpanded: 1
+  createPrefabPoolsExpanded: 0
+  killerPoolingExpanded: 0
+  disableSyncroSpawners: 0
+  startFirstWaveImmediately: 1
+  waveRestartMode: 0
+  enableWaveWarp: 0
+  startLevelNumber:
+    variableSource: 1
+    worldVariableName: 
+    curModMode: 1
+    selfValue: 1
+    minimum: 1
+    maximum: 2147483647
+  startWaveNumber:
+    variableSource: 1
+    worldVariableName: 
+    curModMode: 1
+    selfValue: 1
+    minimum: 1
+    maximum: 2147483647
+  persistBetweenScenes: 0
+  isLoggingOn: 0
+  LevelTimes: []
+  useWaves: 0
+  showCustomWaveClasses: 0
+  customWaveClasses: []
+  repeatLevelMode: 0
+  useWaveNameFilter: 0
+  waveNameFilterText: 
+  customEvents: []
+  customEventCategories:
+  - CatName: '[Uncategorized]'
+    IsExpanded: 1
+    IsEditing: 0
+    IsTemporary: 0
+    ProspectiveName: '[Uncategorized]'
+  newCustomEventCategoryName: New Category
+  addToCustomEventCategoryName: New Category
+  initializationSettingsExpanded: 0
+  initializationCustomEvents: []
+  waveDurationsCopied: 0
+  _frames: 624
+--- !u!114 &11489802
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 184520}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77f3611b309e62747b906d3d69945b2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isExpanded: 0
+  varType: 0
+  allowNegative: 0
+  canEndGame: 0
+  hasMaxValue: 0
+  startingValue: 0
+  endGameMinValue: 0
+  endGameMaxValue: 0
+  prospectiveValue: 0
+  intMaxValue: 100
+  startingValueFloat: 0
+  endGameMinValueFloat: 0
+  endGameMaxValueFloat: 0
+  prospectiveFloatValue: 0
+  floatMaxValue: 100
+  persistanceMode: 0
+  listenerPrefab: {fileID: 0}
+  changeMode: 2
+  fireEventsOnChange: 0
+  changeCustomEventsToFire: []
+--- !u!114 &11499454
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 117628}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddf9e23fc24e8de4fa02ad4e8dec2b1e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  newPrefabPoolExpanded: 1
+  newPrefabPoolName: EnemiesPool
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 193466}
+  m_IsPrefabParent: 1

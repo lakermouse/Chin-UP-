@@ -1,0 +1,17 @@
+1.3 fixed Playmaker and Nodecanvas demos
+    Updated Nodecanvas actions to new Api: .owneragent property became .agent
+
+1.2: 
+     ****NodeCanvas
+     --added Paradoxnotion NodeCanvas Action nodes and Nodecanvas examples
+1.1:
+     ****RangeMapperManager:
+     -- fixed minor bug in RangeMapperManager outputting Message to console from RangeMappermanager that the GameObject holding the RangeMapperCustoms was present more then once    
+	 -- added check in Manager to make sure only the right types Components are added to the dictionaries
+	 -- added check for double names for all types of RangeMapperCustoms to avoid errors 
+	 -- refactored variable naming conventions
+	 ****Demo and Playmaker demo
+	 -- fixed a stupid error with the ranges of the realtime clock in the demo (it was one hour off)
+	 -- added RangeMapperVersion textfile
+
+1.0: initial release with Playmaker examples
