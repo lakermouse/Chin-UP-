@@ -30,14 +30,14 @@ MonoBehaviour:
     serializationDepthLimit: 64
     assemblyNames:
     - Assembly-CSharp
-    - Rewired_Windows_Functions
     - Assembly-CSharp-firstpass
     - InspectorGadgets
     - DamageNumbersPro
     - Rowlan.AnimationPreview.Runtime
+    - Rewired_Windows_Functions
     - PPv2URPConverters
-    - EpsilonDelta.MeasureTool.Editor
     - Rowlan.AnimationPreview.Editor
+    - EpsilonDelta.MeasureTool.Editor
     showAdvancedSettings: 0
   addMgrToSceneAutomatically: 0
   autoUpdateReferences: 1
