@@ -33,6 +33,7 @@ MonoBehaviour:
     - Assembly-CSharp-firstpass
     - InspectorGadgets
     - DamageNumbersPro
+    - Cinemachine
     - Rowlan.AnimationPreview.Runtime
     - Rewired_Windows_Functions
     - PPv2URPConverters
