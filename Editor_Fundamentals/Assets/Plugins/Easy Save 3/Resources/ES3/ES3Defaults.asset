@@ -36,9 +36,15 @@ MonoBehaviour:
     - Cinemachine
     - Rowlan.AnimationPreview.Runtime
     - Rewired_Windows_Functions
+    - LeTai.TranslucentImage.Demo
+    - LeTai.TranslucentImage
+    - LeTai.TrueShadow.Demo
+    - LeTai.TrueShadow
     - PPv2URPConverters
     - Rowlan.AnimationPreview.Editor
     - EpsilonDelta.MeasureTool.Editor
+    - LeTai.TranslucentImage.Editor
+    - LeTai.TrueShadow.Editor
     showAdvancedSettings: 0
   addMgrToSceneAutomatically: 0
   autoUpdateReferences: 1

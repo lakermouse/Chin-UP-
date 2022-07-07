@@ -13,7 +13,13 @@ MonoBehaviour:
   m_Name: PlayMakerGlobals
   m_EditorClassIdentifier: 
   variables:
-    floatVariables: []
+    floatVariables:
+    - useVariable: 1
+      name: Stamina
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 100
     intVariables: []
     boolVariables: []
     stringVariables: []
@@ -30,6 +36,7 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 
+    variableCategoryIDs: 00000000
   events:
   - SetForRace
+  - StartStamina
