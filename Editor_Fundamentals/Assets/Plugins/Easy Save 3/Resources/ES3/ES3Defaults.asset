@@ -31,20 +31,20 @@ MonoBehaviour:
     assemblyNames:
     - Assembly-CSharp
     - Assembly-CSharp-firstpass
+    - LeTai.TrueShadow
     - InspectorGadgets
+    - LeTai.TranslucentImage.Demo
     - DamageNumbersPro
     - Cinemachine
-    - Rowlan.AnimationPreview.Runtime
-    - Rewired_Windows_Functions
-    - LeTai.TranslucentImage.Demo
     - LeTai.TranslucentImage
     - LeTai.TrueShadow.Demo
-    - LeTai.TrueShadow
+    - Rowlan.AnimationPreview.Runtime
+    - Rewired_Windows_Functions
+    - LeTai.TrueShadow.Editor
     - PPv2URPConverters
+    - LeTai.TranslucentImage.Editor
     - Rowlan.AnimationPreview.Editor
     - EpsilonDelta.MeasureTool.Editor
-    - LeTai.TranslucentImage.Editor
-    - LeTai.TrueShadow.Editor
     showAdvancedSettings: 0
   addMgrToSceneAutomatically: 0
   autoUpdateReferences: 1
