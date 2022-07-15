@@ -20,6 +20,12 @@ MonoBehaviour:
       showInInspector: 0
       networkSync: 0
       value: 100
+    - useVariable: 1
+      name: StanceMultiplier
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
     intVariables: []
     boolVariables: []
     stringVariables: []
@@ -36,7 +42,7 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 00000000
+    variableCategoryIDs: 00000000000000000000000000000000
   events:
   - SetForRace
   - StartStamina
